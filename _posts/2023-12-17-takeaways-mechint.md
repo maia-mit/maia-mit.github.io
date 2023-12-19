@@ -1,7 +1,7 @@
 ---
 title: Takeaways from a Mechanistic Interpretability project on “Forbidden Facts”
 layout: post
-authors: [kaivu, tony]
+authors: [kaivu, tony, miles]
 ---
 
 Overview
